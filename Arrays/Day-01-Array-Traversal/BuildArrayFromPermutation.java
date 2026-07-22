@@ -1,12 +1,12 @@
 /*
 ------------------------------------------------------
-Problem : 1920. Build Array from Permutation
+Problem : Build Array from Permutation
 
 Pattern : Array Traversal
 
 Approach :
-There i have created new Array of length as
- the given array and i have stored nums[nums[i]] 
+There I have created new Array of length as
+ the given array and I have stored nums[nums[i]] 
  in every index of the new arrray which I have 
 created using for loop to iterate over all elements in the given array.
 

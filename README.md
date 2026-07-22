@@ -29,5 +29,5 @@ Master Data Structures and Algorithms using Java.
 Arrays
 
 - ✅ Day 01
-- ⬜ Day 02
+- ✅ Day 02
 - ⬜ Day 03

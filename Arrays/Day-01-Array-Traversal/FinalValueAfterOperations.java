@@ -12,7 +12,7 @@ does that values belongs to according to that I'll perform the value.
 
 Time Complexity:O(n)
 
-Space Complexity:O(n)
+Space Complexity:O(1)
 
 LeetCode :
 https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
