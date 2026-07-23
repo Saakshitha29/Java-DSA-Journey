@@ -1,0 +1,27 @@
+# Time Complexity
+
+## What is Time Complexity?
+## KEY POINTS
+- Time Complexity != Time taken to solve a program but it is about 
+how the time of execution of program is varied based on input size.
+- It is about input vs operations.
+- There are three types of notating the TC
+    -> Big O (Worst Case)
+    -> Omega (AVerage Case)
+    -> Theta (Best case)
+
+## Common Time Complexities
+
+- O(1) - Constant 
+- O(log n) - Logarithmic
+- O(n) - Linear
+- O(n log n) - Linearithmic
+- O(n²) - Quadratic
+- O(2^n) - Exponential
+- O(n!) - Factorial 
+
+## Learnings
+
+- Lower time complexity is generally better.
+- Time complexity helps compare algorithms.
+- Explain worst case complexity every time.

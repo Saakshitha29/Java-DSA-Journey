@@ -1,0 +1,45 @@
+## DATA STRUCTURES 
+ ## key points
+ - Data structure is the way of organizing the data to perform effecient update,search,delete,Insert operations.
+ - It is used to manage the storage properly without wasting the memory.
+ - There are two types of DS:
+
+                    Data Structures
+                          |
+         ---------------------------------
+         |                               |
+    Primitive                     Non-Primitive
+                                      |
+                    --------------------------------
+                    |                              |
+                Linear                       Non-Linear
+                    |                              |
+      -------------------------         -------------------
+      |     |      |      |            |        |        |
+    Array Linked  Stack Queue        Tree    Graph    Heap
+           List
+
+- Primitive DS: 
+    ->byte
+    ->short
+    ->int 
+    ->long
+    ->double
+    ->float
+    ->char
+    ->boolean
+
+- Non-Primitive DS:
+    These are built on the basis of primitive data types
+
+    -Linear DS:
+        -> The data is stored in sequential manner.
+
+    -Non-Linear DS:
+        -> The data is not stored in sequential manner.
+
+## Learnings
+
+- Data structures are used to store data properly so that accessing,deleting etc will be faster.
+- Linear DS is sequential in manner.
+- Non linear is not sequential in manner.
